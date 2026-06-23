@@ -1,0 +1,4 @@
+Total Items Tracked: 3
+--- Current Stock Details ---
+Painkiller - Stock: 100
+Thermometer - Stock: 20
